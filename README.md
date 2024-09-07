@@ -7,3 +7,4 @@
   <li>Creating a file that sends a request to an open source weather API and organizes the data to see if the conditions are right for sailing</li>
   <li>Displaying the results of the API call on the SPI-controlled ili9341 by connecting necessary pins and driving the display</li>
 </ol>
+<p>Thank you for checking out this project of mine! As always, if you have any questions, feel free to ask!</p>
